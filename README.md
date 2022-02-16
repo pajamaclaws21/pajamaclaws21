@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pajamaclaws21
-- 👀 I’m interested in lotsa stuff, espesh
-- 🌱 I’m currently learning AS MUCH AS I CAN.
-- 💞️ I’m not looking to collaborate on anything at the moment!
+- 👀 I’m interested in quite a few different things!
+- 🌱 I’m currently learning HTML and basic CSS.
+- 💞️ No collabs at the moment.
 - 📫 Y'all can't do anything (at the moment) to reach me.
 
 <!---
