@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @pajamaclaws21
 - 👀 I’m interested in quite a few different things!
-- 🌱 I’m currently learning HTML and basic CSS.
-- 💞️ No collabs at the moment.
-- 📫 Y'all can't do anything (at the moment) to reach me.
+- 🌱 I'm learning JavaScript and CSS- new ways to manipulate HTML!!
+- 💞️ To collaborate with me, see below:
+- 📫 Talk to me on the Snap<em>!</em> forums, or in the discussions on my repos!
 <hr>
 
 <!---
