@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=pajamaclaws21)
 
 - 👋 Hi, I’m @pajamaclaws21
-- 👀 I’m interested in quite a few different things!
-- 🌱 I'm learning JavaScript and CSS- new ways to manipulate HTML!!
-- 💞️ To collaborate with me, see below:
-- 📫 Talk to me on the Snap<em>!</em> forums, or in the discussions on my repos!
+- 👀 I dabble in everything
+- 🌱 I'm learning web server code!
+- 💞️ To collaborate with me, just ask ;)
+- 📫 I'll reach out over Discord, or, talk to me on repos
 <hr>
 
 <!---
